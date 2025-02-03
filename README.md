@@ -13,6 +13,8 @@ The goal is to dynamically adjust the product price to maximize total sales and 
 - **Time-Series Forecasting**: Uses an LSTM model to predict future sales based on price changes.
 - **Exploration vs. Exploitation**: Ensures balance between testing new price points and leveraging known profitable prices.
 - **Model Persistence**: Saves trained models for future use, reducing the need for retraining.
+## Presentation For Better Understanding
+https://www.canva.com/design/DAGd-KbRko0/85o5yv2uwk0nK077dbvBrQ/edit?utm_content=DAGd-KbRko0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Project Structure
 ```
