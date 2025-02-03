@@ -20,7 +20,7 @@ https://www.canva.com/design/DAGd-KbRko0/85o5yv2uwk0nK077dbvBrQ/edit?utm_content
 ```
 ├── models/                    # Directory for saved models (LSTM & Q-Network)
 ├── data/                      # Directory for dataset storage
-├── rl_price_optimization.py   # Main RL implementation script
+├── src/rl_price_optimization.py   # Main RL implementation script
 ├── requirements.txt           # List of dependencies
 ├── README.md                  # Project documentation
 ```
@@ -32,8 +32,8 @@ Ensure you have Python 3.8+ and the required dependencies installed.
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/rl-price-optimization.git
-   cd rl-price-optimization
+   git clone https://github.com/nishkarsh925/RL_project1
+   cd RL_project1
    ```
 2. Install dependencies:
    ```bash
